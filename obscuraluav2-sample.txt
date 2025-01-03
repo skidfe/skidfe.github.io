@@ -1,0 +1,722 @@
+local ObscuraLua =
+    [[This script is safeguarded by ObscuraLua, an advanced Lua obfuscation technology devised by User319183. For further details, please refer to our official website: https://obscuralua.ru ]]
+return (function(...)
+    return (function(...)
+        local __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL = {}
+        local function __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC)
+            return __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC + (-9053785 + 9105833)
+            ]
+        end
+        do
+            local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC = true
+            local __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 = string.gmatch
+            local __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL = function()
+                error(&quot;\084\097\109\112\101\114 \068\101\116\101\099\116\101\100\033&quot;)
+            end
+            local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = false
+            local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A =
+                pcall(
+                function()
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = true
+                end
+            ) and __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+            local __ObscuraLua__User319183__INnkaHV3rcwpKxYH = math.random
+            local __ObscuraLua__User319183__XuNFiLnoZq2O4fW = table.concat
+            local __ObscuraLua__User319183__DNvcONainZjqzLhJ9n = table and table.unpack or unpack
+            local __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX =
+                __ObscuraLua__User319183__INnkaHV3rcwpKxYH(-18452577 + 18452580, -4797503 + 4797568)
+            local __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj = -4552972 + 4552972
+            local __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb = -14693296 + 14693296
+            local __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As = {
+                pcall(
+                    function()
+                        local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                            (-15473747 + 31199474) -
+                            &quot;\152\206\112\068\206\068\161\206\068\206\068\206\068\206\068\206\068\113\068\206\206\058\206\206\177\121\068\116\068\206\068\206\068\116\068\125\068\206\068\109\118\206\206\068\206\121\068\153\068\206\104\206\068\072\049\206\137\182\073\068\128\068\072\129\068\090\165&quot; ^
+                                (26613942 + -12517302)
+                        return &quot;\043\179\091\207\091\147\206\206\064\091\090\043\122\091\206\206\091\069\091\055\207\089\091\152\091\148\091\206\037\091\182\060\206\206\091\044\091\206\091\137\053\207\207\072\091\206\206\091\159\082\207\109\091\135\081\091\206\079\091\169\131\206\146\091\123\091\066\091&quot; /
+                            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                    end
+                )
+            }
+            local __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p =
+                __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[-7446479 + 7446481]
+            local __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3 =
+                tonumber(
+                (__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0(
+                    tostring(__ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p),
+                    &quot;\058\040\037\100\042\041\058&quot;
+                ))()
+            )
+            for __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL = 25483634 + -25483633, __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX, -20430150 +
+                20430151 do
+                local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                    math.random(-3504424 + 3504425, 31785952 + -31785852)
+                local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A =
+                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH(24984995 + -24984995, 11239274 + -11239019)
+                local __ObscuraLua__User319183__XuNFiLnoZq2O4fW =
+                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH(
+                    28086802 + -28086801,
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+                )
+                local __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As =
+                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH(8318678 + -8318677, -21368412 + 21368414) ==
+                    32358 + -32357
+                local __ObscuraLua__User319183___8TKmfWRta8HCF =
+                    __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p:gsub(
+                    &quot;\058\040\037\100\042\041\058&quot;,
+                    &quot;\058&quot; ..
+                        (tostring(__ObscuraLua__User319183__INnkaHV3rcwpKxYH(8792980 + -8792980, -9911692 + 9921692)) ..
+                            &quot;\058&quot;)
+                )
+                local __ObscuraLua__User319183__uKo7BgbJA_maPbj = {
+                    pcall(
+                        function()
+                            if
+                                __ObscuraLua__User319183__INnkaHV3rcwpKxYH(28495548 + -28495547, -17133130 + 17133132) ==
+                                    10931582 + -10931581 or
+                                    __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL ==
+                                        __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX
+                             then
+                                local __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL =
+                                    tonumber(
+                                    (__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0(
+                                        tostring(
+                                            ({
+                                                pcall(
+                                                    function()
+                                                        local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                                                            (21708226 + -20233854) -
+                                                            &quot;\177\145\206\145\105\207\043\145\036\098\145\060\206\145\206\095\206\037\145\207\145\063\131\145\090\076\206\081\145\052\084\063\145\054\094\041\083\075\145\084\107\062\207\207\118\145\132\088\083\145\044\145\168&quot; ^
+                                                                (-28779075 + 43392748)
+                                                        return &quot;\113\103\117\111\069\117\105\117\067\052\089\075\117\068\113\073\117\055\090\117\117\106\070\117\052\120\099\052\068\086\105\117\078\117\052\121\117\069\117\115\117\069\115\110\076\086\055\117\071\075\108\066\117&quot; /
+                                                            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                                                    end
+                                                )
+                                            })[-493124 + 493126]
+                                        ),
+                                        &quot;\058\040\037\100\042\041\058&quot;
+                                    ))()
+                                )
+                                __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC and
+                                    __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3 ==
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                            end
+                            if __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As then
+                                error(__ObscuraLua__User319183___8TKmfWRta8HCF, 27436832 + -27436832)
+                            end
+                            local __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj = {}
+                            for __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC = -5017752 + 5017753, __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS, -9167632 +
+                                9167633 do
+                                __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                                    ] =
+                                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH(18107674 + -18107674, -8823062 + 8823317)
+                            end
+                            __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj[__ObscuraLua__User319183__XuNFiLnoZq2O4fW] =
+                                __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A
+                            return __ObscuraLua__User319183__DNvcONainZjqzLhJ9n(
+                                __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                            )
+                        end
+                    )
+                }
+                if __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As then
+                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC and
+                        (__ObscuraLua__User319183__uKo7BgbJA_maPbj[-20335835 + 20335836] == false and
+                            __ObscuraLua__User319183__uKo7BgbJA_maPbj[-27197577 + 27197579] ==
+                                __ObscuraLua__User319183___8TKmfWRta8HCF)
+                else
+                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC and
+                        __ObscuraLua__User319183__uKo7BgbJA_maPbj[-12040704 + 12040705]
+                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                        (__ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj +
+                        __ObscuraLua__User319183__uKo7BgbJA_maPbj[
+                            __ObscuraLua__User319183__XuNFiLnoZq2O4fW + (1557587 + -1557586)
+                        ]) %
+                        (-1595714 + 1595970)
+                    __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb =
+                        (__ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb +
+                        __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A) %
+                        (4240324 + -4240068)
+                end
+            end
+            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC and
+                __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj == __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb
+            if __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC then
+            else
+                repeat
+                    return (function()
+                        while true do
+                            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL()
+                        end
+                    end)()
+                until true
+                return
+            end
+        end
+        local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC, __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0
+        do
+            local __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL = math.floor
+            local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = math.random
+            local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A = table.remove
+            local __ObscuraLua__User319183__INnkaHV3rcwpKxYH = string.char
+            local __ObscuraLua__User319183__XuNFiLnoZq2O4fW = 29928934 + -29928934
+            local __ObscuraLua__User319183__DNvcONainZjqzLhJ9n = -20735569 + 20735571
+            local __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX = {}
+            local __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj = {}
+            local __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb = -13275519 + 13275519
+            local __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As = {}
+            for __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC = 29560517 + -29560516, -30869240 + 30869496, 21135535 +
+                -21135534 do
+                __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC] =
+                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+            end
+            repeat
+                local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                    -22209406 + 22209407,
+                    #__ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As
+                )
+                local __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 =
+                    __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A(
+                    __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As,
+                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                )
+                __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj[__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0] =
+                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH(
+                    __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 - (-28973051 + 28973052)
+                )
+            until #__ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As == -15191364 + 15191364
+            local __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p = {}
+            local function __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3()
+                if #__ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p == -10540416 + 10540416 then
+                    __ObscuraLua__User319183__XuNFiLnoZq2O4fW =
+                        (__ObscuraLua__User319183__XuNFiLnoZq2O4fW * (-23386002 + 23386055) +
+                        (15931891 + 19687959398876)) %
+                        (8823074 + 35184363265758)
+                    repeat
+                        __ObscuraLua__User319183__DNvcONainZjqzLhJ9n =
+                            (__ObscuraLua__User319183__DNvcONainZjqzLhJ9n * (8958587 + -8958405)) %
+                            (-22716633 + 22716890)
+                    until __ObscuraLua__User319183__DNvcONainZjqzLhJ9n ~= -5477571 + 5477572
+                    local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC =
+                        __ObscuraLua__User319183__DNvcONainZjqzLhJ9n % (-25843092 + 25843124)
+                    local __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 =
+                        (__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL(
+                        __ObscuraLua__User319183__XuNFiLnoZq2O4fW /
+                            (-32522118 + 32522120) ^
+                                ((19669637 + -19669624) -
+                                    (__ObscuraLua__User319183__DNvcONainZjqzLhJ9n -
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC) /
+                                        (19669060 + -19669028))
+                    ) %
+                        (30271566 + 4264695730)) /
+                        (-5206619 + 5206621) ^ __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                    local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL(
+                        (__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 % (-11536908 + 11536909)) *
+                            (-5874655 + 4300841951)
+                    ) + __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL(__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0)
+                    local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A =
+                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS % (-22041334 + 22106870)
+                    local __ObscuraLua__User319183__INnkaHV3rcwpKxYH =
+                        (__ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS -
+                        __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A) /
+                        (-16277562 + 16343098)
+                    local __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX =
+                        __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A % (21130919 + -21130663)
+                    local __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                        (__ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A -
+                        __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX) /
+                        (-19445006 + 19445262)
+                    local __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb =
+                        __ObscuraLua__User319183__INnkaHV3rcwpKxYH % (23811037 + -23810781)
+                    local __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As =
+                        (__ObscuraLua__User319183__INnkaHV3rcwpKxYH - __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb) /
+                        (-10224251 + 10224507)
+                    __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p = {
+                        __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX,
+                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj,
+                        __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb,
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As
+                    }
+                end
+                return table.remove(__ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p)
+            end
+            local __ObscuraLua__User319183___8TKmfWRta8HCF = {}
+            __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 =
+                setmetatable({}, {__index = __ObscuraLua__User319183___8TKmfWRta8HCF, __metatable = nil})
+            function __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0,
+                __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL)
+                local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = __ObscuraLua__User319183___8TKmfWRta8HCF
+                if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS[__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL] then
+                else
+                    __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p = {}
+                    local __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC = __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                    __ObscuraLua__User319183__XuNFiLnoZq2O4fW =
+                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL % (-7465920 + 35184379554752)
+                    __ObscuraLua__User319183__DNvcONainZjqzLhJ9n =
+                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL % (-13676650 + 13676905) +
+                        (12929948 + -12929946)
+                    local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A =
+                        string.len(__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0)
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS[__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL] =
+                        &quot;&quot;
+                    local __ObscuraLua__User319183__INnkaHV3rcwpKxYH = 12522821 + -12522654
+                    for __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A = 20598388 + -20598387, __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A, 11026154 +
+                        -11026153 do
+                        __ObscuraLua__User319183__INnkaHV3rcwpKxYH =
+                            ((string.byte(
+                            __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0,
+                            __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A
+                        ) +
+                            __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3()) +
+                            __ObscuraLua__User319183__INnkaHV3rcwpKxYH) %
+                            (-25585807 + 25586063)
+                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS[
+                                __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                            ] =
+                            __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS[
+                            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                        ] ..
+                            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC[
+                                __ObscuraLua__User319183__INnkaHV3rcwpKxYH + (-33403960 + 33403961)
+                            ]
+                    end
+                end
+                return __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+            end
+        end
+        return (function(
+            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL,
+            __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A,
+            __ObscuraLua__User319183__INnkaHV3rcwpKxYH,
+            __ObscuraLua__User319183__XuNFiLnoZq2O4fW,
+            __ObscuraLua__User319183__DNvcONainZjqzLhJ9n,
+            __ObscuraLua__User319183__wNi6q0eTnZ3uKj4VsX,
+            __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj,
+            __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS,
+            __ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq,
+            __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb,
+            __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As,
+            __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p,
+            __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3,
+            __ObscuraLua__User319183___8TKmfWRta8HCF,
+            __ObscuraLua__User319183__uKo7BgbJA_maPbj,
+            __ObscuraLua__User319183__vwon7gBgbPj1xK0m4)
+            __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS,
+                __ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq,
+                __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb,
+                __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As,
+                __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p,
+                __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3,
+                __ObscuraLua__User319183___8TKmfWRta8HCF,
+                __ObscuraLua__User319183__uKo7BgbJA_maPbj,
+                __ObscuraLua__User319183__vwon7gBgbPj1xK0m4 =
+                function(
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS,
+                    __ObscuraLua__User319183__INnkaHV3rcwpKxYH,
+                    __ObscuraLua__User319183__XuNFiLnoZq2O4fW,
+                    __ObscuraLua__User319183__DNvcONainZjqzLhJ9n)
+                    local __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj,
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As,
+                        __ObscuraLua__User319183__vwon7gBgbPj1xK0m4,
+                        __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3,
+                        __ObscuraLua__User319183__LiquJlzUCvVgN95_vE,
+                        __ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq,
+                        __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb,
+                        __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h,
+                        __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p,
+                        __ObscuraLua__User319183___8TKmfWRta8HCF,
+                        __ObscuraLua__User319183__Xo37BgqbDlQ7IQdJ,
+                        __ObscuraLua__User319183__WoB7BgZbpaoy4n2nKuzlMaR,
+                        __ObscuraLua__User319183__uKo7BgbJA_maPbj
+                    while __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS do
+                        if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; -6658669 + 15897659 then
+                            if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; 18404489 + -12888325 then
+                                if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; -23177801 + 27840612 then
+                                    __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h = nil
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = 28185110 + -16239318
+                                else
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\144\121\187\124\044&quot;,
+                                            -24681966 + 22897087235993
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__Xo37BgqbDlQ7IQdJ =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\167\023\109\254\127\129\169\188\000\020\112\250\132\137\004\164\195\072\133\051\053\129\a&quot;,
+                                            -24382329 + 31629810320664
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                                        __ObscuraLua__User319183__Xo37BgqbDlQ7IQdJ
+                                    )
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = -5032666 + 9466840
+                                end
+                            else
+                                if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; 7448715 + 1508746 then
+                                    __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb =
+                                        __ObscuraLua__User319183__INnkaHV3rcwpKxYH
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\158\127\218&quot;,
+                                            -3927566 + 6473072425431
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\229\110\066\255\101&quot;,
+                                            21366896 + 1727159237305
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\181\122\143\106\097\006\192\183\133\054\222\247\101\026\148\197\190\059&quot;,
+                                            27233609 + 3730219055506
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                                    ]
+                                    __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3 =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &#39;\216\232\172\093\046\196\030\225\254\194\064\118\042\v\127\199\064\224\131\139\049\161\077\248\151\163\055\131\251\171\157\151\217\174\111\251\170&quot;\244\120\187\127\168\v\112\135\064\185\221\117\103\144\005\160\150\209\000\208\230&#39;,
+                                            -33486492 + 33642988844041
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                                        __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3
+                                    )
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = -32181031 + 44126823
+                                else
+                                    __ObscuraLua__User319183__WoB7BgZbpaoy4n2nKuzlMaR =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\161\219\006\230\202\122\017\235\t\046\079\167\230\042\099\165\137\108\244\161\243\054\052\119\219\180\069\179\200\244\064\150\188\146\006\103\099\014\235\226\122\071\049\215\055&quot;,
+                                            -26811003 + 11741685248003
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\048\156\213\239\181&quot;,
+                                            11995233 + 10045521398249
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                                        __ObscuraLua__User319183__WoB7BgZbpaoy4n2nKuzlMaR
+                                    )
+                                    __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h = nil
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = -16182739 + 28646248
+                                end
+                            end
+                        else
+                            if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; -31779667 + 44098255 then
+                                if __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS &lt; 3498423 + 7285628 then
+                                    __ObscuraLua__User319183___8TKmfWRta8HCF =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\076\145&quot;,
+                                            16865608 + 30406462610953
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__LiquJlzUCvVgN95_vE =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\248\089\072\082&quot;,
+                                            33029498 + 18642830779507
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__uKo7BgbJA_maPbj =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\031\206\173\119\174&quot;,
+                                            -32069917 + 7453285525168
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__vwon7gBgbPj1xK0m4 =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\140\079\152\031\229\163\054\232\002\227\229\215\061\148\233\059\053\147&quot;,
+                                            29787675 + 10675860966754
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                        __ObscuraLua__User319183___8TKmfWRta8HCF
+                                    ]
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj[
+                                        __ObscuraLua__User319183__uKo7BgbJA_maPbj
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                                        __ObscuraLua__User319183__vwon7gBgbPj1xK0m4
+                                    )
+                                    __ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\058\224&quot;,
+                                            -5853730 + 19065201784017
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                        __ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq
+                                    ]
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj[
+                                        __ObscuraLua__User319183__LiquJlzUCvVgN95_vE
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS()
+                                    __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h =
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &#39;\214&quot;\035\022\133&#39;,
+                                            12588285 + 31201051517897
+                                        )
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h[
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                                    ]
+                                    __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj =
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj(
+                                        __ObscuraLua__User319183__y1go7BglbhLg5GKyv5h
+                                    )
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj ==
+                                        __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS and 24033649 + -14936614 or
+                                        23936708 + -19128850
+                                else
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = true
+                                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                        __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS and 13633885 + -3446726 or
+                                        20478182 + -8014673
+                                end
+                            else
+                                __ObscuraLua__User319183__ro7ByPgPWibCksLlvCXvdbI5p = nil
+                                __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                                    __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                    __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                            &quot;\088\056\128\060\236\035\128\128\132\228\095\125\138\026\138\203\228&quot;,
+                                            -401030 + 4790194186061
+                                        )
+                                    ]
+                                ]
+                                __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj = {}
+                                __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As = nil
+                            end
+                        end
+                    end
+                    __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS = #__ObscuraLua__User319183__DNvcONainZjqzLhJ9n
+                    return __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A(
+                        __ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj
+                    )
+                end,
+                function(__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC, __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0)
+                    local __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL =
+                        __ObscuraLua__User319183___8TKmfWRta8HCF(__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0)
+                    local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A = function(...)
+                        return __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS(
+                            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC,
+                            {...},
+                            __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0,
+                            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                        )
+                    end
+                    return __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A
+                end,
+                {},
+                {},
+                function()
+                    __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3 =
+                        __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3 + (-30688018 + 30688019)
+                    __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3] =
+                        -29099099 + 29099100
+                    return __ObscuraLua__User319183__7sop7BggbM9qLIog2PFiucs3
+                end,
+                30663265 + -30663265,
+                function(__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL)
+                    for __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC = -15733583 + 15733584, #__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL, -5777233 +
+                        5777234 do
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[
+                                __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                                ]
+                            ] =
+                            __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[
+                            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL[
+                                __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC
+                            ]
+                        ] +
+                            (26781945 + -26781944)
+                    end
+                    if __ObscuraLua__User319183__INnkaHV3rcwpKxYH then
+                        local __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS =
+                            __ObscuraLua__User319183__INnkaHV3rcwpKxYH(true)
+                        local __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A =
+                            __ObscuraLua__User319183__DNvcONainZjqzLhJ9n(
+                            __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+                        )
+                        __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A[
+                                __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\121\078\078\053\176\214\170&quot;,
+                                        14529930 + 838852365315
+                                    )
+                                ]
+                            ],
+                            __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A[
+                                __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\148\194\024\245&quot;,
+                                        17248609 + 29128688288671
+                                    )
+                                ]
+                            ],
+                            __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A[
+                                __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\124\183\125\137\123&quot;,
+                                        27419278 + 34886814817516
+                                    )
+                                ]
+                            ] =
+                            __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL,
+                            __ObscuraLua__User319183__uKo7BgbJA_maPbj,
+                            function()
+                                return 26293535 + -24272474
+                            end
+                        return __ObscuraLua__User319183__rFTNki1nZWlARI7jPlucHS
+                    else
+                        return __ObscuraLua__User319183__XuNFiLnoZq2O4fW(
+                            {},
+                            {
+                                [__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\n\165\006\194&quot;,
+                                        29240840 + 12025780987867
+                                    )
+                                ]] = __ObscuraLua__User319183__uKo7BgbJA_maPbj,
+                                [__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\170\004\069\129\098\018\221&quot;,
+                                        -11341912 + 11544461550942
+                                    )
+                                ]] = __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL,
+                                [__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                                    __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                                        &quot;\038\173\216\081\022&quot;,
+                                        10962999 + 34331399845440
+                                    )
+                                ]] = function()
+                                    return -8660543 + 10681604
+                                end
+                            }
+                        )
+                    end
+                end,
+                function(__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC)
+                    local __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0,
+                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL =
+                        -2297687 + 2297688,
+                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC[-8094344 + 8094345]
+                    while __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL do
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL],
+                            __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 =
+                            __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[
+                                __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                            ] -
+                                (3842068 + -3842067),
+                            __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0 + (-28751645 + 28751646)
+                        if
+                            __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[
+                                __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                            ] ==
+                                -19844743 + 19844743
+                         then
+                            __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[
+                                    __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                                ],
+                                __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb[
+                                    __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL
+                                ] = nil, nil
+                        end
+                        __ObscuraLua__User319183__TiqNiNnnZFSjPu9nPx3xuL =
+                            __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC[__ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0]
+                    end
+                end,
+                function(__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC)
+                    __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC] =
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC] -
+                        (19905138 + -19905137)
+                    if
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC] ==
+                            30411930 + -30411930
+                     then
+                        __ObscuraLua__User319183__Zqbo7Bgb7Z2IEPqkMp5As[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC],
+                            __ObscuraLua__User319183__ToHqvrywA8RcHQjfFqQtb[__ObscuraLua__User319183__boNiEnmZ_U_RzG51dC] =
+                            nil,
+                            nil
+                    end
+                end
+            return (__ObscuraLua__User319183__Fwo7XBg6bTPefs4Vq(22177145 + -13332031, {}))(
+                __ObscuraLua__User319183__sNziXvn8Z10kgVkiJyfo56A(__ObscuraLua__User319183__GUfjo0ZNlRIaWVEjNTfj)
+            )
+        end)(
+            getfenv and getfenv() or _ENV,
+            unpack or
+                table[
+                    __ObscuraLua__User319183__rZPPEvCliOhsZo3ujh0[
+                        __ObscuraLua__User319183__boNiEnmZ_U_RzG51dC(
+                            &quot;\082\185\176\132\088\155&quot;,
+                            -7005849 + 4715620052786
+                        )
+                    ]
+                ],
+            newproxy,
+            setmetatable,
+            getmetatable,
+            select,
+            {...}
+        )
+    end)(...)
+end)(...)

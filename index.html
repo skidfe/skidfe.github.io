@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111111" />
+    <link rel="preload" href="/assets/fonts.min.css" as="style">
+    <link rel="stylesheet" href="/assets/fonts.min.css">
+    <link rel="alternate" type="application/atom+xml" title="A Paster's blog" href="/feed.xml">
+    <title>My Personal Blog</title>
+    <meta property="og:title" content="Pasted obfuscator" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description"
+        content="Sathvik's bersonal blog about software develobment." />
+    <meta property="og:description"
+        content="Blog about pasting an obfuscator (Obscuralua XD)." />
+    <link rel="canonical" href="https://skidfe.st/" />
+    <meta property="og:url" content="https://skidfe.st/" />
+    <meta property="og:site_name" content="Download obscuralua" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Download obscuralua" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            color: inherit;
+            text-decoration: inherit;
+        }
+
+        html {
+            background: var(--bg-0);
+            color: var(--text-0);
+            width: 100%;
+            text-rendering: optimizeLegibility;
+            font-feature-settings: "kern" 1;
+            font-feature-settings: "liga" 1;
+            min-width: 100vw;
+            overflow-x: hidden;
+            -webkit-text-size-adjust: 100%;
+        }
+
+	
+
+        @media all and (min-width:640px) {
+            html {
+                font-size: 16.5px;
+            }
+        }
+
+        @media all and (min-width:720px) {
+            html {
+                font-size: 17px;
+            }
+        }
+
+        @media all and (min-width:960px) {
+            html {
+                font-size: 18px;
+            }
+        }
+
+        body {
+            max-width: 944px;
+            margin: 0 auto;
+            padding: 0 24px;
+            font-family: "Charter", serif;
+        }
+
+        header,
+        h1,
+        h2,
+        h3,
+        .sans {
+            font-family: 'Space Grotesk', Helvetica, sans-serif;
+        }
+
+        code,
+        .mono,
+        summary {
+            font-family: 'Source Code Pro', monospace;
+            font-weight: 500;
+        }
+
+        .img-right {
+            float: right;
+            height: 300px;
+            padding-left: 2em
+        }
+
+        :root {
+            --text-0: rgba(255, 255, 255, 87%);
+            --text-1: rgba(255, 255, 255, 60%);
+            --bg-0: #121212;
+            --bg-1: rgba(255, 255, 255, 5%);
+            --bg-2: rgba(255, 255, 255, 12%);
+            --accent: #ef5350;
+	    --stimulant: #551818;
+--stimulant2: #00ff00;
+        }
+
+        @media (prefers-color-scheme: light) {
+            :root {
+                --text-0: rgba(0, 0, 0, 87%);
+                --text-1: rgba(0, 0, 0, 66%);
+                --bg-0: #fff;
+                --bg-1: #f2f2f2;
+                --bg-2: rgba(0, 0, 0, 12%);
+		--stimulant: #551818;
+	--stimulant2: #00ff00;
+		
+            }
+        }
+
+	@media (prefers-color-scheme: dark) {
+            :root {
+                --text-0: rgba(0, 0, 0, 87%);
+                --text-1: rgba(0, 0, 0, 66%);
+                --bg-0: #fff;
+                --bg-1: #f2f2f2;
+                --bg-2: rgba(0, 0, 0, 12%);
+		--stimulant: #551818;
+--stimulant2: #00ff00;
+		
+            }
+        }
+
+        body>header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 2em 0;
+        }
+
+        nav a {
+            margin-left: 1.5em;
+            letter-spacing: 0.07em;
+            font-size: .9rem;
+        }
+
+        hgroup {
+            margin: 4rem 64px 4rem 64px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        .m {
+            margin-left: 11%;
+            position: relative;
+        }
+
+        .r {
+            text-align: end;
+        }
+
+        h1 {
+            font-size: 6em;
+        }
+
+        .red {
+            color: #EF5350;
+        }
+
+        article {
+            margin: 0 0 1rem -24px;
+            padding-left: 20px;
+            position: relative;
+            border-left: var(--accent) solid 4px;
+        }
+
+        article>a {
+            font-size: 1.3rem;
+            letter-spacing: 0.05em;
+        }
+
+        article>div {
+            font-size: .9rem;
+        }
+
+        article>time {
+            color: var(--text-1);
+            font-size: .9rem;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        article>div {
+            color: var(--text-1)
+        }
+
+        article a {
+            color: var(--text-0);
+            position: relative;
+        }
+
+        .shapes {
+            z-index: -1;
+            position: absolute;
+            margin-left: -340px;
+            margin-top: -500px;
+        }
+
+        @media screen and (min-width: 1248px) {
+            time {
+                position: absolute;
+                left: 0;
+                top: 0;
+                transform: translateX(calc(-100% - 24px));
+            }
+        }
+
+        @media screen and (max-width: 1248px) {
+            .shapes {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 1200px) {
+            .m {
+                margin-left: 0;
+            }
+
+            .r {
+                text-align: left;
+            }
+
+            hgroup {
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            h1 {
+                font-size: 4em;
+                line-height: 100%;
+            }
+
+            h2 {
+                font-size: 2em;
+                line-height: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header> <a href="/">PUNJABI BLOG</a>
+        <nav> <a href="tel:+17324207156">CONTACT</a> <a href="https://e621.net">DMCA</a></nav>
+    </header>
+    <main aria-label="Content">
+</article>
+	<br /> <br />
+	  
+<article class="stimulant" style="background-color:#ffeeee"> <a class="sans" href="./obscuraluav2-sample.txt">🔥 Preview of ObscuraLua V2! Check it now! 🔥</a>
+            <div class="mono">Click the title to get insights to our newset release: ObscuraLua V2. We have included a sample output above. Check it out!</div>
+        </article>
+	  <article> <a class="sans" href="https://discord.gg/7WA6tmndkb">Join the OBSCURALUA discord! </a>
+            <div class="mono">Join our discord community to talk about obfuscation: https://discord.gg/7WA6tmndkb</div>
+        </article>
+        <hgroup>
+            <h1>We</h1>
+            <h1 class="m red">PASTE</h1>
+            <h1 class="r">Software<span class="red">.</span></h1>
+        </hgroup><svg xmlns="http://www.w3.org/2000/svg" width="2000" height="800" class="shapes">
+            <defs>
+                <pattern id="sqp" width="64" height="64" patternUnits="userSpaceOnUse">
+                    <rect width="8" height="8" fill="#EF5350"></rect>
+                </pattern>
+            </defs>
+            <rect width="300" height="400" fill="url(#sqp)"></rect>
+            <rect x="1500" y="500" width="400" height="300" fill="url(#sqp)"></rect>
+        </svg>
+        <article> <a
+                href="https://github.com/prometheus-lua/Prometheus" class="sans">And surprisingly, we are pretty open about it too!</a>
+            <div class="mono"> Learn how to PASTE with this ONE trick! Click title to learn more.</div>
+        </article>
+        <article>  <a
+                href="/obscuralua-main.rar" class="sans">Or you can <b>[DOWNLOAD]</b> our ready-to-use paste.</a>
+            <div class="mono"> Dont worry, it is under "GNU AFFERO GENERAL PUBLIC LICENSE", which means you can USE it HOWEVER the fuck you want. Just like we did.</div>
+        </article>
+	<br> </br>
+<article class="stimulant2" style="background-color:#ffdddd"> <a class="sans" href="./obscuraluav2-sample.txt">😨 Sathvik sent us a Cease and Desist letter 😨</a>
+<br></br>
+            <div class="mono">
+
+<img src="./sathvik_cease_and_desist.png" style="width:95%"> </img>
+<br> </br>
+<div class="mono">See you at the court buddy, not too sure if ObscuraLua makes enough money to afford an Uber drive to the nearest court. Haha</div>
+<br> </br>
+<img src="./sathvik_email.png" style="width:95%"> </img>
+<br> </br>
+<div class="mono">I believe Discord forwarded them the e-mail address I used while creating the account. Not nice discord.. not nice. What is next? My Tor exit node IP??!</div>
+</div>
+        </article>
+
+	  <article> <a class="sans"> Seems like trolls are at it again... </a>
+            <div class="mono"> f***king trolls. False DMCAs now?? FOR REAL?? they even impersonated me! wtf</div>
+        </article>
+<br />
+	<img src="./retard0.png"> </img>
+        
+	<br /> <br />
+    </main>
+</body>
+
+</html>
